@@ -1,0 +1,22 @@
+{
+  "name": "request_header_parser",
+  "version": "1.0.0",
+  "description": "[FreeCodeCamp] JavaScript app that can get the IP address, language and operating system for a browser",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MouMohsen/request_header_parser.git"
+  },
+  "author": "MouMohsen@FreeCodeCamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MouMohsen/request_header_parser/issues"
+  },
+  "homepage": "https://github.com/MouMohsen/request_header_parser#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
